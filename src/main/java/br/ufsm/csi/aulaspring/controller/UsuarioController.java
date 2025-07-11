@@ -1,11 +1,12 @@
 package br.ufsm.csi.aulaspring.controller;
 
-import br.com.gerenciamento.repository.UsuarioRepository;
-import br.com.gerenciamento.exception.ServiceExc;
-import br.com.gerenciamento.model.Aluno;
-import br.com.gerenciamento.model.Usuario;
-import br.com.gerenciamento.service.ServiceUsuario;
-import br.com.gerenciamento.util.Util;
+import br.ufsm.csi.aulaspring.repository.UsuarioRepository;
+
+import br.ufsm.csi.aulaspring.exception.ServiceExc;
+import br.ufsm.csi.aulaspring.model.Aluno;
+import br.ufsm.csi.aulaspring.model.Usuario;
+import br.ufsm.csi.aulaspring.service.ServiceUsuario;
+import br.ufsm.csi.aulaspring.util.Util;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.validation.BindingResult;

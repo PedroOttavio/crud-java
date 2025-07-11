@@ -1,7 +1,7 @@
 package br.ufsm.csi.aulaspring.controller;
 
-import br.com.gerenciamento.repository.AlunoRepository;
-import br.com.gerenciamento.model.Aluno;
+import br.ufsm.csi.aulaspring.repository.AlunoRepository;
+import br.ufsm.csi.aulaspring.model.Aluno;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.validation.BindingResult;

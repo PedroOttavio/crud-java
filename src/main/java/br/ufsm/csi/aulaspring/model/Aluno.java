@@ -1,8 +1,8 @@
 package br.ufsm.csi.aulaspring.model;
 
-import br.com.gerenciamento.enums.Curso;
-import br.com.gerenciamento.enums.Status;
-import br.com.gerenciamento.enums.Turno;
+import br.ufsm.csi.aulaspring.estaticos.Curso;
+import br.ufsm.csi.aulaspring.estaticos.Status;
+import br.ufsm.csi.aulaspring.estaticos.Turno;
 import com.sun.istack.NotNull;
 
 import javax.persistence.*;
