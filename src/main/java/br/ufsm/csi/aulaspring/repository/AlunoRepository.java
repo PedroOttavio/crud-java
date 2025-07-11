@@ -1,6 +1,6 @@
 package br.ufsm.csi.aulaspring.repository;
 
-import br.com.gerenciamento.model.Aluno;
+import br.ufsm.csi.aulaspring.model.Aluno;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
