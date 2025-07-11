@@ -1,4 +1,4 @@
-package br.com.gerenciamento.service;
+package br.ufsm.csi.aulaspring.service;
 
 import br.com.gerenciamento.exception.CriptoExistsException;
 import br.com.gerenciamento.exception.EmailExistsException;

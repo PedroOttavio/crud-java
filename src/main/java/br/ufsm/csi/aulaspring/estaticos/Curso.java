@@ -1,4 +1,4 @@
-package br.com.gerenciamento.enums;
+package br.ufsm.csi.aulaspring.estaticos;
 
 public enum Curso {
 

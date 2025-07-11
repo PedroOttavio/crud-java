@@ -1,4 +1,4 @@
-package br.com.gerenciamento.controller;
+package br.ufsm.csi.aulaspring.controller;
 
 import br.com.gerenciamento.repository.AlunoRepository;
 import br.com.gerenciamento.model.Aluno;

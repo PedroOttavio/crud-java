@@ -1,4 +1,4 @@
-package br.com.gerenciamento.util;
+package br.ufsm.csi.aulaspring.util;
 
 import java.math.BigInteger;
 import java.security.MessageDigest;

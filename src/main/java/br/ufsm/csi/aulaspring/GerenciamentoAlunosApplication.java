@@ -1,4 +1,4 @@
-package br.com.gerenciamento;
+package br.ufsm.csi.aulaspring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

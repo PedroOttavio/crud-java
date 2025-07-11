@@ -1,4 +1,4 @@
-package br.com.gerenciamento.controller;
+package br.ufsm.csi.aulaspring.controller;
 
 import br.com.gerenciamento.repository.UsuarioRepository;
 import br.com.gerenciamento.exception.ServiceExc;

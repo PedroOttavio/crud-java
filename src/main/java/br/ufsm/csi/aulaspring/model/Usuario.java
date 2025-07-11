@@ -1,4 +1,4 @@
-package br.com.gerenciamento.model;
+package br.ufsm.csi.aulaspring.model;
 
 import javax.persistence.*;
 import javax.validation.constraints.Email;

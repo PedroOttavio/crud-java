@@ -1,4 +1,4 @@
-package br.com.gerenciamento.model;
+package br.ufsm.csi.aulaspring.model;
 
 import br.com.gerenciamento.enums.Curso;
 import br.com.gerenciamento.enums.Status;

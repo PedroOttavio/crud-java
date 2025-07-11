@@ -1,4 +1,4 @@
-package br.com.gerenciamento.exception;
+package br.ufsm.csi.aulaspring.exception;
 
 import java.io.Serial;
 

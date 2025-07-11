@@ -1,4 +1,4 @@
-package br.com.gerenciamento;
+package br.ufsm.csi.aulaspring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
