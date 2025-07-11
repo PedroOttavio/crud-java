@@ -1,11 +1,12 @@
 package br.ufsm.csi.aulaspring.service;
 
-import br.com.gerenciamento.exception.CriptoExistsException;
-import br.com.gerenciamento.exception.EmailExistsException;
-import br.com.gerenciamento.repository.UsuarioRepository;
-import br.com.gerenciamento.exception.ServiceExc;
-import br.com.gerenciamento.model.Usuario;
-import br.com.gerenciamento.util.Util;
+
+import br.ufsm.csi.aulaspring.exception.CriptoExistsException;
+import br.ufsm.csi.aulaspring.exception.EmailExistsException;
+import br.ufsm.csi.aulaspring.repository.UsuarioRepository;
+import br.ufsm.csi.aulaspring.exception.ServiceExc;
+import br.ufsm.csi.aulaspring.model.Usuario;
+import br.ufsm.csi.aulaspring.util.Util;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.security.NoSuchAlgorithmException;
